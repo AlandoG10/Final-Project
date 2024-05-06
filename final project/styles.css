@@ -1,0 +1,77 @@
+/* styles.css */
+
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body background and font styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #04f32c1c;
+    color: #0a0000;
+}
+
+/* Header styles */
+header {
+    background-color: #01741a;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Navigation styles */
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+/* Main content styles */
+main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Intro section styles */
+.intro {
+    background-color: #f0dc6f;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+/* Featured sites section styles */
+.featured-sites {
+    background-color: #d5dbdb;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+/* Footer styles */
+footer {
+    background-color: #01741a;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Additional styles for specific elements (customize as needed) */
+h1, h2, h3 {
+    font-family: 'Georgia', serif;
+}
+
+/* Add more styles for images, buttons, forms, etc. */
